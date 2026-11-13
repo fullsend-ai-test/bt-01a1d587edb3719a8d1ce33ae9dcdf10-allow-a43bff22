@@ -18,4 +18,6 @@ agents:
     - name: fork-pr-killed
       source: harness/fork-pr-killed.yaml
       enabled: false
+    - name: fork-pr-nofork
+      source: harness/fork-pr-nofork.yaml
 mint_url: https://bt-c924629f-bt-mint.fullsend-ai.workers.dev
